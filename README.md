@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://github.com/clash-wiki/clash" title="Clash下载中文官网资源分享">
-  <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/314d6def-9ddb-434e-a306-f0ec8f3c2d4e" />
+<img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/0415cf86-7eae-49e7-a9f5-af85116967c0" />
 
   </a>
   <h1>Clash下载中文官网资源分享 (2026年8月更新)</h1>
   <p>
-    <b>Clash下载中文官网资源分享 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
+    <b>Clash全平台下载中文官网资源分享 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Update-2026.08-brightgreen.svg" alt="Update">
