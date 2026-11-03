@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://github.com/clash-wiki/clash" title="Clash下载中文官网资源分享">
+  <a href="https://github.com/clash-wiki/clash" title="Clash 中文 Wiki 索引">
 <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/0415cf86-7eae-49e7-a9f5-af85116967c0" />
 
   </a>
-  <h1>Clash下载中文官网资源分享 (2026年11月更新)</h1>
+  <h1>Clash 中文 Wiki 索引 (2026年11月更新)</h1>
   <p>
-    <b>Clash全平台下载中文官网资源分享 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
+    <b>词条、平台笔记与 Releases 读法；不镜像安装包</b>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Update-2026.11-brightgreen.svg" alt="Update">
@@ -21,7 +21,7 @@
 
 ### 0. 阅读顺序
 
-本页是 **Clash下载中文官网资源分享** 的 Wiki 索引：按「词条 → 目录 → 平台笔记 → Releases 读法」定位官方仓库，**不镜像安装包、不代发订阅、不写逐步安装长教程**。
+本页是 **Clash 中文 Wiki 索引** 的 Wiki 索引：按「词条 → 目录 → 平台笔记 → Releases 读法」定位官方仓库，**不镜像安装包、不代发订阅、不写逐步安装长教程**。
 
 建议路径：① 扫 [词条](#1-词条生态与名词) → ② 进 [资源目录](#2-资源目录按角色) 点到各项目 **GitHub Releases** → ③ 看 [平台速查笔记](#3-平台速查笔记) → ④ 下包前读 [如何读 GitHub Releases](#4-如何读-github-releases) → ⑤ 热度对照用 [代理雷达](https://github.com/guiforcores/dailileida)。
 
@@ -183,4 +183,4 @@ A：本索引以桌面 / 移动 GUI 为主。软路由请查对应固件插件�
 
 ---
 
-<sub>Clash下载中文官网资源分享 · Wiki 索引 · 2026年11月更新 · 不镜像安装包</sub>
+<sub>Clash 中文 Wiki 索引 · Wiki 索引 · 2026年11月更新 · 不镜像安装包</sub>
