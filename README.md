@@ -27,6 +27,8 @@
 
 若本索引有用，欢迎点右上角 **Star** ⭐。
 
+[节点雷达](https://jiedianleida.com/)：Wiki 旁证入口——免费 Clash / V2Ray / SS / Trojan 节点按日测速归档，选订阅前可对照延迟与可用性。
+
 ---
 
 ### 1. 词条：生态与名词
